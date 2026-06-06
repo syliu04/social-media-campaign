@@ -1,0 +1,14 @@
+post_type: "carousel"
+caption:
+"
+This won't make you immune. But it'll make it harder for an algorithm to write your story for you.
+
+The goal isn't to scrub your personality off the internet. It's to be intentional about what's public and what's not, especially before recruiting season.
+
+💬 Which step are you doing first? Tell us in the comments.
+
+Read more, source in bio:
+- [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478)
+"
+hashtags: "#JobSearch", "#DigitalFootprint", "#StudentLife"
+pinned: FALSE

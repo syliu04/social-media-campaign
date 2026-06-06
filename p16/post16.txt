@@ -1,0 +1,18 @@
+post_type: "single"
+caption:
+"
+This isn't an activist claim. It's the federal government's own lab.
+
+When the National Institute of Standards and Technology tested face recognition algorithms across demographics, it found false-positive rates 10 to 100 times higher for Asian and African American faces than for white faces, depending on the algorithm.
+
+A false positive in face recognition isn't a glitch. In policing, it can mean the wrong person gets stopped, questioned, or arrested.
+
+When even the government's own testing says the tech is unequal, "trust the algorithm" stops being a neutral statement.
+
+💬 Write in the comments and tag your tech-obsessed friend: should police be allowed to use tech with error rates like these?
+
+Read more, link in bio to article:
+- NIST's [Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects (NISTIR 8280)](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software) ([full report PDF](https://nvlpubs.nist.gov/nistpubs/ir/2019/nist.ir.8280.pdf))
+"
+hashtags: "#FacialRecognition", "#NIST", "#AIbias", "#Surveillance"
+pinned: FALSE

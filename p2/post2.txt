@@ -1,0 +1,12 @@
+post_type: "carousel"
+caption: 
+"
+When someone tells you "the algorithm is just being objective," send them this post.
+Save for later. Share with those who need to see it.
+
+Learn more, read sources in bio:
+- [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478) on hiring algorithms inheriting bias from training data
+- [Andrejevic & Gates (2014)](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/bds_ed) on how databases launder bias under a veneer of objectivity
+"
+hashtags: "#AIBias", "#AlgorithmicAccountability", "#DataEthics"
+pinned: FALSE

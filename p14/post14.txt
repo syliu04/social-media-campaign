@@ -1,0 +1,13 @@
+post_type: "single"
+caption:
+"
+If you've read every post on our account, you already know more about how AI judges you than most people you'll meet in real life.
+
+Save this. Send this. Screenshot this. Tag us in your finsta bio. Whatever helps.
+
+The systems aren't going away. But neither are we.
+
+Thanks for being here. See you in the next one. 💛
+"
+hashtags: "#AIethics", "#DigitalRights", "#AlgorithmicAccountability", "#StudentAdvocacy"
+pinned: TRUE

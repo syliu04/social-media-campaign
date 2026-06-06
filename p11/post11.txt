@@ -1,0 +1,14 @@
+post_type: "carousel"
+caption:
+"
+Every minute you're online, the database gets a little bigger. And the people running it have a plan for data that doesn't even need a purpose yet.
+
+This isn't conspiracy. This is just how the model works.
+
+Save this post. The next post offers potential solutions to mitigate it. 💪
+
+Read more, source linked in bio:
+- [Andrejevic & Gates (2014)](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/bds_ed)
+"
+hashtags: "#BigData", "#Surveillance", "#DigitalRights", "#DataEthics"
+pinned: FALSE

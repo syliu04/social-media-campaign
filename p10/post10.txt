@@ -1,0 +1,19 @@
+post_type: "single"
+caption:
+"
+If you've made it this far, you already know more about how AI judges you than most people in your life. That's the first step.
+
+Here are some next steps you can take. Pick one. Just one. Do it this week.
+
+💬 Reply with the number you're going to do
+🔁 Tag the person you're sharing this with
+
+We got this.
+
+Read more about how you can combat AI surveillance, articles linked in bio:
+- [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478)
+- [Roundtree (2022)](https://ieeexplore.ieee.org/document/9881633/)
+- [Sikorski (2021)](https://journals.sagepub.com/doi/10.1177/10776990211035395)
+"
+hashtags: "#AIaccountability", "#DigitalRights", "#StudentAdvocacy"
+pinned: FALSE

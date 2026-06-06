@@ -1,0 +1,14 @@
+post_type: "carousel"
+caption:
+"
+During one election cycle, researchers found that 13% of every image shared in big group chats was misinformation. Thirteen percent. And that was years ago.
+
+This post’s goal isn't to make you paranoid. Just hoping to help you form a 3-second habit so you stop being a free distribution channel for someone else's lie.
+
+🔁 Send it to your most "I saw it on Twitter" friend
+
+Source linked in bio:
+- [Sikorski (2021)](https://journals.sagepub.com/doi/10.1177/10776990211035395)
+"
+hashtags: "#Deepfakes", "#MediaLiteracy", "#Disinformation"
+pinned: FALSE

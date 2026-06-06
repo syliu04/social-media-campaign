@@ -1,0 +1,13 @@
+post_type: "single"
+caption:
+"
+Facial recognition technology (FRT) is being used in schools, stadiums, airports, and police databases right now. When companies write "ethics codes" promising it's safe, this is what those promises actually look like.
+
+Only 4 out of 16 most cited ethic codes even mention race as a concern. And yet study after study shows FRT misidentifies darker-skinned faces at far higher rates than lighter-skinned ones.
+
+💬 Has facial recognition ever been used on you that you know of? Airport? Concert? School?
+
+Read article in bio to learn more: [Roundtree (2022)](https://ieeexplore.ieee.org/document/9881633/)
+"
+hashtags: "#FacialRecognition", "#Surveillance", "#DigitalRights"
+pinned: FALSE

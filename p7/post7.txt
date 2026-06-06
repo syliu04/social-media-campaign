@@ -1,0 +1,16 @@
+post_type: "carousel"
+caption:
+"
+Three quick experiments you can do today to see this stuff in action.
+
+The goal isn't to scare you off using technology. It's to make the invisible visible, so you can decide when AI deserves your trust and when it doesn't.
+
+💬 Try one and comment what you find
+
+Sources:
+- Slide 2: [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478)
+- Slide 3: [Roundtree (2022)](https://ieeexplore.ieee.org/document/9881633/)
+- Slide 4: [Shah & Bender (2024)](https://dl.acm.org/doi/10.1145/3649468)
+"
+hashtags: "#AIethics", "#DigitalLife", "#BigData", "#Surveillance"
+pinned: FALSE

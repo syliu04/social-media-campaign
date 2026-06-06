@@ -1,0 +1,17 @@
+post_type: "carousel"
+caption:
+"
+Plot twist: in January 2025, the federal government quietly removed its official guidance on how anti-discrimination law applies to AI hiring tools. The laws are still there. The instructions for following them are not.
+
+But here's the hopeful part: states stepped up. Illinois and Texas laws took effect in January 2026, and Colorado's lands in June 2026. In some states, you now have the right to be told when AI is judging you, and the right to appeal it.
+
+Know which state you're in. Know what it gives you.
+
+🔁 Share with someone job-hunting in IL, CO, or TX.
+
+Read more sources in bio:
+- Recent U.S. government / policy sources (2025-2026): The [EEOC](https://www.eeoc.gov/ai) removed its May 2023 AI hiring guidance in January 2025 following [Executive Order 14179](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)
+- [Illinois HB 3773](https://www.ilga.gov/ftp/legislation/103/BillStatus/HTML/10300HB3773.html) (eff. Jan 1, 2026), [Texas TRAIGA](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB149) (eff. Jan 1, 2026), and [Colorado SB 24-205](https://leg.colorado.gov/bills/sb24-205) (eff. June 2026)
+"
+hashtags: "#AIregulation", "#WorkersRights", "#DigitalRights", "#AIpolicy"
+pinned: TRUE

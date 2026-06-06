@@ -1,0 +1,16 @@
+post_type: "single"
+caption:
+"
+13% of every image. That's not the screenshots from sketchy accounts. That's every image, period. Memes, news, photos, group-chat reactions.
+
+And the study that found this was years ago. AI image generators have only gotten cheaper and faster since then.
+
+The scariest part of visual misinformation isn't even what you believe. It's that once we know fakes exist, we stop trusting real footage too.
+
+🔁 Share with your most chronically online friend.
+
+This stat came from Garimella and Eckles' study of WhatsApp before the 2019 Indian national elections.
+Learn more, read article linked in bio: [Sikorski (2021)](https://journals.sagepub.com/doi/10.1177/10776990211035395)
+"
+hashtags: "#Disinformation", "#MediaLiteracy", "#VisualMisinformation"
+pinned: FALSE

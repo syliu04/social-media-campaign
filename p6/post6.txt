@@ -1,0 +1,16 @@
+post_type: "single"
+caption:
+"
+"It's just math" is the modern version of "computers don't lie."
+
+They don't lie, they just inherit. Every assumption, every shortcut, every historical bias gets baked in and then dressed up in the language of objectivity.
+When someone in your group chat says "well, the algorithm decided," screenshot this and send it back.
+
+🔁 Save it. You'll need it.
+
+Learn more, read articles in bio:
+- bias-laundering argument from [Andrejevic & Gates (2014)](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/bds_ed)
+- bias-amplification argument from [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478)
+"
+hashtags: "#AIMyths", "#AlgorithmicBias", "#CriticalThinking"
+pinned: FALSE

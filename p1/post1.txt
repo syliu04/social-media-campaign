@@ -1,0 +1,17 @@
+post_type: "single"
+caption:
+"
+Hi, welcome 👋
+
+Right now, an algorithm is probably reading your Instagram before any human reads your resume. Another one is scanning your face at the airport. Another one is deciding what you "find" when you Google something.
+
+None of them are neutral. All of them affect you.
+
+This page breaks down how AI actually makes decisions about your life, in plain language, with things you can do about it.
+
+🔔 New post three times a week
+💬 Drop your questions in the DMs
+🔗 [Sources & deeper reads](links.html) linked in bio
+"
+hashtags: "#AIethics", "#AlgorithmicBias", "#DigitalRights", "#StudentLife"
+pinned: TRUE

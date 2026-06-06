@@ -1,0 +1,17 @@
+post_type: "single"
+caption:
+"
+Okay, scary little exercise:
+Open your IG. Scroll back two years. Would you hire you?
+
+Companies are using AI tools right now to scan applicants' posts, photos, and even captions for "personality fit," "risk indicators," and "soft skills." You don't see the score. You can't appeal it.
+The wildest part? The same tools that promise to "remove human bias" often amplify it, because they learned from past hiring decisions that were biased to begin with.
+
+💬 Comment 👁️ if you didn't know this was happening
+💬 Comment 🧹 if you're about to delete some posts
+
+Learn more about where the statistics came from, read article in bio:
+- CareerBuilder survey cited in [Kong & Ding (2024)](https://journals.sagepub.com/doi/10.1177/10506519231199478)
+"
+hashtags: "#HiringAlgorithms", "#JobSearch", "#StudentLife"
+pinned: FALSE
